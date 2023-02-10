@@ -1,9 +1,10 @@
 #!/bin/bash
 
 # Path to MGG
-cd ~/Documents/VSCode/MGG/
+cd /home/edenthread/Documents/MGG/
 
-source ./.venv/bin/activate
+cd ./.venv/bin/
+. ./activate
 python ./MGG.py
 git add Messages\ from\ openAI.txt
 git commit -m "🌴 Making Github Greener !"

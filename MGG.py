@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 url = "https://api.openai.com/v1/engines/text-curie-001/completions"
-api_key = ""
+api_key = "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"
 
 question = "Dis nous quelques mots d'actualités en France (pas plus d'une phrase)."
  
@@ -19,8 +19,6 @@ response = requests.request('POST', url, headers=headers, json={
   "frequency_penalty": 0,
   "presence_penalty": 0
 })
-
-from datetime import datetime
 
 today = datetime.now()
 date_str = today.strftime("%d %B %Y")
