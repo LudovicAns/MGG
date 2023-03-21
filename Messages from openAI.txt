@@ -164,3 +164,8 @@
 - La loi El Khomri est entrée en vigueur le 1er janvier 2017. Elle instaure une nouvelle réglementation du travail, notamment en matière de licenciement et d'embauche.
 - Le gouvernement a annoncé le 31 décembre 2016 la création d'un fonds d'urgence pour financer les investissements dans les transports en commun.
 - La loi Travail est entrée en vigueur le 1er janvier
+==========21 March 2023==========
+- La loi Travail est entrée en vigueur le 1er janvier.
+- La loi Macron portant réforme de la société de consommation est entrée en vigueur le 1er janvier.
+- La loi El Khomri portant réforme du travail est entrée en vigueur le 1er janvier.
+- Le gouvernement annonce la création d'un nouveau ministère de la Santé et de la Ville.
