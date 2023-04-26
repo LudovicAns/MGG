@@ -331,3 +331,5 @@
 - La France est en quatrième position sur l'échelle de la pauvreté en Europe.
 - La France est le pays européen qui produit le plus de biocarburants.
 - La France est le pays européen qui consomme le plus de viande.
+==========26 April 2023==========
+- La loi Macron est entrée en vigueur le 1er janvier 2019. Elle est un fruit de la réforme du travail menée par le Président Emmanuel Macron depuis son arrivée à l'Elysée. Elle prévoit notamment la mise en place du dialogue social direct, l'ouverture du marché du travail aux travailleurs indépendants, la création d'un comité d'entreprise et l'extension de la durée du travail à
