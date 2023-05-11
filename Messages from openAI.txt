@@ -393,3 +393,7 @@
 - Les émeutes de la banlieue parisienne ont fait au moins vingt morts et plus de cinquante blessés.
 - Le gouvernement a annoncé la création d'un million d'emplois d'avenir dans le secteur des transports en commun.
 - La France a été élue membre du Conseil de sécurité de l'ONU.
+==========11 May 2023==========
+- La loi El Khomri est entrée en vigueur le 1er janvier 2017. Elle modifie le code du travail et instaure un nouveau salaire minimum de 8,50 €/h.
+- Le gouvernement a annoncé le 31 décembre 2016 la création d'un million de places d'emploi d'ici à 2022.
+- La loi Macron introduit la carte européenne d'identité.
