@@ -497,3 +497,7 @@
 - La loi Travail est adoptée.
 - La France est le deuxième pays européen après l'Allemagne en termes de productivité.
 - La France est le deuxième pays européen après l'Allemagne en termes de nombre d'immigrés.
+==========03 June 2023==========
+1. La loi Travail est entrée en vigueur le 1er janvier 2018. Elle a été votée en novembre 2017 et vise à réformer le marché du travail en France.
+2. La loi prévoit notamment la création d'un nouveau statut de travailleur indépendant, le « micro-entrepreneur ».
+3. La loi instaure également des périodes de probation pour les entreprises.
