@@ -505,3 +505,7 @@
 - La France est en crise économique et sociale.
 - La France est en guerre civile.
 - La France est en danger.
+==========05 June 2023==========
+- La France accuse la Russie d'être à l'origine de la cyberattaque du parti de Marine Le Pen.
+- La France décide de mettre en place un système de contrôle des armes à feu.
+- La France annonce la création d'un fonds d'investissement pour les startups.
